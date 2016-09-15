@@ -1,0 +1,19 @@
+{
+    "leaders": [
+        {
+            "firstName": "Chong",
+            "lastName": "Zhang",
+            "highestScore": 50
+        },
+        {
+            "firstName": "John",
+            "lastName": "Doe",
+            "highestScore": 150
+        },
+        {
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "highestScore": 750
+        }
+    ]
+}
